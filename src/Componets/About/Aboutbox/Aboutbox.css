@@ -1,0 +1,29 @@
+.aboutContent{
+    width: 1152px;
+    margin: auto;
+    display: block;
+    float: left;
+}
+article{
+    text-align: left;
+    padding: 15px;
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+article h2{
+    padding: 35px 0px;
+    font-size: 48px;
+}
+.img_circle{
+    width: 330px;
+    height: 320px;
+    border-radius: 100%;
+    border:5px solid #ecebeb;
+    margin:0px 20px;
+}
+.contentfull{
+    display: flex;
+    padding: 15px 0px;
+    flex-direction: row-reverse;
+}
+
